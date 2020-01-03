@@ -15,6 +15,7 @@ double sq(double x){
     }
 int main(){
     double x,sum=0;
+    cout<<"Enter = ";
 
     cin>>x;
     sum=threex(x)+(2*2.71828)+twopow(x)+sq(x);

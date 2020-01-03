@@ -13,6 +13,7 @@ int findDivisor(int i){
 }
 int main(){
     int i,y;
+    cout<<"Enter = ";
     cin>>i;
     cout<<findDivisor(i);
 }
